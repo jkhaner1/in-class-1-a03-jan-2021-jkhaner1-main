@@ -1,0 +1,7 @@
+#ignore all kind of files
+*.*
+#except php files
+!*.pdf
+!*.md
+!.gitignore
+!.gitattributes
